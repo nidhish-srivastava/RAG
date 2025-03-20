@@ -27,7 +27,7 @@ This project is a PDF-based RAG (Retrieval-Augmented Generation) API built using
 
 ### ⚡️ Tech Stack
 
-Backend: FastAPI + Uvicorn
+Backend: FastAPI
 
 Vector DB: Pinecone
 
